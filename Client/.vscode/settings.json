@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\javagaming\\jbullet\\jbullet.jar",
+        "c:\\javagaming\\jinput\\jinput.jar",
+        "c:\\javagaming\\jinput\\jinput-2.0.9-natives-all.jar",
+        "c:\\javagaming\\jogl\\gluegen-rt.jar",
+        "c:\\javagaming\\jogl\\gluegen-rt-natives-windows-amd64.jar",
+        "c:\\javagaming\\jogl\\gluegen-rt-natives-windows-i586.jar",
+        "c:\\javagaming\\jogl\\joal.jar",
+        "c:\\javagaming\\jogl\\joal-natives-windows-amd64.jar",
+        "c:\\javagaming\\jogl\\joal-natives-windows-i586.jar",
+        "c:\\javagaming\\jogl\\jogl-all.jar",
+        "c:\\javagaming\\jogl\\jogl-all-natives-windows-amd64.jar",
+        "c:\\javagaming\\jogl\\jogl-all-natives-windows-i586.jar",
+        "c:\\javagaming\\joml\\joml-1.9.6.jar",
+        "c:\\javagaming\\joml\\joml-1.9.8.jar",
+        "c:\\javagaming\\joml\\joml-1.9.11.jar",
+        "c:\\javagaming\\joml\\joml-1.9.25.jar",
+        "c:\\javagaming\\joml\\joml-1.10.0.jar",
+        "c:\\javagaming\\joml\\joml-jdk8-1.9.24.jar",
+        "c:\\javagaming\\vecmath\\vecmath.jar"
+    ]
+}
