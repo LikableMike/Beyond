@@ -35,29 +35,29 @@ This was my first real dive into a networked multiplayer game so even just seein
 	The game was made to be a team vs team spaceship combat game where the two teams compete to collect and bring resources back to their teams mothership. To collect resources you can either mine them from the surrounding asteroids or destroy enemy ships. Depositing too many resources at once causes the enemy team to spawn drones that will chase after you and attack when they get close. First team to deposit 10,000 points wins. 
 
 # Controls
-Controller:
-Left Stick: Move Ship (Forward and Backward, Left and Right)
-Click in Left Stick: Speed Boost;
-Right Stick: Look around
-Click in Right Stick: Descend
-Bumpers: Roll Left and Right Respectively
-A: Ascend
-Right Trigger: Laser Beam
-Left Trigger: Space Break
-B: Launch Missle
-X; Respawn
-D-Pad Down: Emote
-	KeyBoard(Doesn’t work on some machines for some reason):
-		WASD: Move Ship
-		Shift: Speed Boost
-		Mouse: Look around
-		Left Click: Shoot Laser
-		Right Click: Shoot Missle
-		Space: Ascend
-		CTRL: Descend
-		F: Emote
-		X: Respawn:
-		Q or E: Roll Left or Right Respectively
+Controller: <br/>
+	Left Stick: Move Ship (Forward and Backward, Left and Right) <br/>
+	Click in Left Stick: Speed Boost; <br/>
+	Right Stick: Look around <br/> 
+	Click in Right Stick: Descend <br/>
+	Bumpers: Roll Left and Right Respectively <br/>
+	A: Ascend <br/>
+	Right Trigger: Laser Beam <br/>
+	Left Trigger: Space Break <br/>
+	B: Launch Missle <br/>
+	X; Respawn <br/>
+	D-Pad Down: Emote <br/>
+KeyBoard(Doesn’t work on some machines for some reason): <br/>
+	WASD: Move Ship <br/>
+	Shift: Speed Boost <br/>
+	Mouse: Look around <br/>
+	Left Click: Shoot Laser <br/>
+	Right Click: Shoot Missle <br/>
+	Space: Ascend <br/>
+	CTRL: Descend <br/>
+	F: Emote <br/>
+	X: Respawn: <br/>
+	Q or E: Roll Left or Right Respectively <br/>
 
 # How to run
   Coming Soon! (Want to make it as easy as possible)
