@@ -22,13 +22,13 @@ This project was for my Computer Game Architecture class where we learned the st
 - Physics and player movement:
 	I spent a lot of time building and tweaking the players movement to get it to where it is now. I was constantly thinking about the force and momentum vectors and how they react with each other to create a smooth zero gravity feel while also not being too realistic to where it would be impossible to play. 
 
-- Player HUD
+- Player HUD:
 The tiny game engine we were using did not have a very extensive HUD implementation so I decided to make the entire HUD in the game,s 3D space. Necessary player info was displayed with scaling 3d objects that were part of the HUD and as an added bonus this allowed for me to add a FOV tweak for when the player accelerates. 
 
-- Multiplayer
+- Multiplayer:
 This was my first real dive into a networked multiplayer game so even just seeing the other player move and ROTATE was super satisfying. Throughout the project I was able to add so many more things like damaging other players, displaying ghost avatar projectiles and playing accurate spacial sound based off of them as well.  
 
-- Game Description
+- Game Description:
 	The game was made to be a team vs team spaceship combat game where the two teams compete to collect and bring resources back to their teams mothership. To collect resources you can either mine them from the surrounding asteroids or destroy enemy ships. Depositing too many resources at once causes the enemy team to spawn drones that will chase after you and attack when they get close. First team to deposit 10,000 points wins. 
 
 # Controls
