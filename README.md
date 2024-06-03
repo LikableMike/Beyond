@@ -1,6 +1,9 @@
 # Beyond - 3D Java Multiplayer Game
 This project was for my Computer Game Architecture class where we learned the structure of game engines and how to modify them to fit our needs. Instead of using professional game engines like Unity, our professor had created a very minimal game engine in java which forced us to get our hands dirty and build upon it to add features we wanted. I took this course alongside an Advanced Computer Graphics course so I was also able to incorporate what I have learned in that class to enhance the visuals by modifying the shader pipeline. This project taught me about different camera controllers, scenegraphs, and how to build game worlds with textures and skyboxes among other things. In my game I largely focused on the physics aspect as I found it very interesting but also enjoyed building the NPC's and networking allowing for multiplayer.
 
+# - Video -
+Video is on my website: https://likablemike.github.io/
+
 ## What I learned
 - Overview of Game engines and Matrix transformations for a 3D Game Space
 - Input handling from keyboards and different types of controllers
